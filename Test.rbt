@@ -1,0 +1,6 @@
+Let Test = "Value";
+let i;
+i = 0;
+While i >= 5 {
+    i = i + 1;
+}
